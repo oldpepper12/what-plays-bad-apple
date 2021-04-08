@@ -15,10 +15,9 @@ A list of devices/games/etc. that have been made to play Bad Apple
 - [Starbound](https://youtu.be/WPQVuORUPQQ)
 - [Friday Night Funkin'](https://youtu.be/0HD7B-Offyg)
 - [Beat Saber](https://youtu.be/SLdD1ohHv1M)
-- [Gary's MMod](https://youtu.be/yRs7o1Fh8Wg)
+- [Gary's Mod](https://youtu.be/yRs7o1Fh8Wg)
 - [Osu!](https://youtu.be/1PRF5SvfPC8)
 - [Fortnite](https://youtu.be/xOH_mW3O2jY)
-
 - [Microsoft Excel](https://youtu.be/X7lUngqOn2w)
 - [Google Sheets](https://youtu.be/-PBQViYED-E)
 - [Microsoft Word](https://youtu.be/YuzLMpkLv08)
