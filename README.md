@@ -4,13 +4,26 @@ A list of devices/games/etc. that have been made to play Bad Apple
 ## Games & Applications
 
 - [Factorio](https://youtu.be/kgnMxRFO1iw)
-- [Microsoft Excel](https://youtu.be/X7lUngqOn2w)
-- [Microsoft Word](https://youtu.be/YuzLMpkLv08)
-- [Terraria](https://youtu.be/NUh4tqlkyWI)
-- [Osu!](https://youtu.be/1PRF5SvfPC8)
-- [Discord Messages](https://youtu.be/PLP9c0Z4Q3Y) [[2]](https://youtu.be/TfS1GIr4kW4)
-- [Youtube Captions](https://youtu.be/G8DjxY8FNKA)
+- [Besiege](https://youtu.be/S1k6Un_VydI)
+- [Animal Crossing: New Horizons](https://youtu.be/2Ku92SorjAg)
+- [Roblox](https://youtu.be/ameF7IIpyvk)
+- [Overwatch Workshop](https://youtu.be/4Yh9i5cvFgE)
+- [GTA: San Andreas](https://youtu.be/Km2orR0R1oY)
 - [Minecraft Sheep](https://youtu.be/tO6sfku_1b8)
+- [Minecraft Command Blocks](https://youtu.be/7AaMaeAOitI)
+- [Terraria](https://youtu.be/NUh4tqlkyWI)
+- [Starbound](https://youtu.be/WPQVuORUPQQ)
+- [Friday Night Funkin'](https://youtu.be/0HD7B-Offyg)
+- [Beat Saber](https://youtu.be/SLdD1ohHv1M)
+- [Gary's MMod](https://youtu.be/yRs7o1Fh8Wg)
+- [Osu!](https://youtu.be/1PRF5SvfPC8)
+- [Fortnite](https://youtu.be/xOH_mW3O2jY)
+
+- [Microsoft Excel](https://youtu.be/X7lUngqOn2w)
+- [Google Sheets](https://youtu.be/-PBQViYED-E)
+- [Microsoft Word](https://youtu.be/YuzLMpkLv08)
+- [Discord Messages](https://youtu.be/PLP9c0Z4Q3Y) [[Real time](https://youtu.be/TfS1GIr4kW4)] [[VC User List](https://youtu.be/VGscIBfT7xE)]
+- [Youtube Captions](https://youtu.be/G8DjxY8FNKA)
 - [Firefox Browser Tabs](https://youtu.be/JjTqE69ZkUs)
 - [Google Maps](https://youtu.be/r-axdVfM0c0)
 - [Desmos Graphing Calculator](https://youtu.be/siPzJD2tMDw)
@@ -20,7 +33,8 @@ A list of devices/games/etc. that have been made to play Bad Apple
 - [MS Paint](https://www.youtube.com/watch?v=itbBubDqm70)
 - [Ubuntu Desktop Environment](https://youtu.be/zlLQg7p_BTs)
 - [1995 Impulse Tracker](https://youtu.be/SDvk3aL78fI)
-- [Friday Night Funkin'](https://youtu.be/0HD7B-Offyg)
+- [HTML Toggle Buttons](https://youtu.be/jS6CQruJdfQ)
+- [CSS Animations](https://youtu.be/Ym8-25wuVts)
 
 ## Devices & Machines
 
@@ -55,6 +69,7 @@ A list of devices/games/etc. that have been made to play Bad Apple
 - [896-Core Processor](https://youtu.be/RY5_gutA_Vw)
 - [A Gaming Keyboard](https://youtu.be/-tTC57U88Gw)
 - [Apple Watch](https://youtu.be/EQdGplOzfJ0)
+- [Pregnancy Test](https://youtu.be/2QiDb_khg44)
 
 ## IRL
 
