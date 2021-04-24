@@ -1,7 +1,7 @@
 # what-plays-bad-apple
 A list of devices/games/etc. that have been made to play Bad Apple
 
-## Games & Applications
+## Games
 
 - [Factorio](https://youtu.be/kgnMxRFO1iw)
 - [Besiege](https://youtu.be/S1k6Un_VydI)
@@ -18,6 +18,8 @@ A list of devices/games/etc. that have been made to play Bad Apple
 - [Gary's Mod](https://youtu.be/yRs7o1Fh8Wg)
 - [Osu!](https://youtu.be/1PRF5SvfPC8)
 - [Fortnite](https://youtu.be/xOH_mW3O2jY)
+
+## Applications
 - [Microsoft Excel](https://youtu.be/X7lUngqOn2w)
 - [Google Sheets](https://youtu.be/-PBQViYED-E)
 - [Microsoft Word](https://youtu.be/YuzLMpkLv08)
@@ -26,9 +28,12 @@ A list of devices/games/etc. that have been made to play Bad Apple
 - [Firefox Browser Tabs](https://youtu.be/JjTqE69ZkUs)
 - [Google Maps](https://youtu.be/r-axdVfM0c0)
 - [Desmos Graphing Calculator](https://youtu.be/siPzJD2tMDw)
+- [Desmos Graphing Calculator (v2/Bezier)](https://www.youtube.com/watch?v=MVrNn5TuMkY)
 - [VSCode Auto-Formatter](https://youtu.be/cmpg-qiPYa8)
 - [WeBWork Homework System](https://youtu.be/pctF1w4utug)
 - [Windows File Explorer](https://youtu.be/7WHA_Gi4nPA)
+- [Windows Task Manager](https://www.youtube.com/watch?v=sBeI30ccb6g)
+- [Notepad](https://www.youtube.com/watch?v=rknrunmQArs)
 - [MS Paint](https://www.youtube.com/watch?v=itbBubDqm70)
 - [Ubuntu Desktop Environment](https://youtu.be/zlLQg7p_BTs)
 - [1995 Impulse Tracker](https://youtu.be/SDvk3aL78fI)
@@ -80,3 +85,5 @@ A list of devices/games/etc. that have been made to play Bad Apple
 ## IRL - Deepfake/GAN
 
 - [Grass](https://www.youtube.com/watch?v=u-1GCGZNotA)
+- [Clouds](https://www.youtube.com/watch?v=baRUqyDVKSE)
+- 
