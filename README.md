@@ -76,3 +76,7 @@ A list of devices/games/etc. that have been made to play Bad Apple
 - [An Apple](https://youtu.be/kSz00lTjeyU)
 - [Flipbook](https://youtu.be/m84PTZB_qT0)
 - [Hand-drawn RISC V CPU](https://youtu.be/1OfeswjPZuw)
+
+## IRL - Deepfake/GAN
+
+- [Grass](https://www.youtube.com/watch?v=u-1GCGZNotA)
